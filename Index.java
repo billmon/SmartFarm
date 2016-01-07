@@ -9,6 +9,6 @@ public class Index {
   
   public setIndexer(int indexer) {
     this indexer = indexer;
-    System.out.println("일단 다녀갑니당");
+    System.out.println("일단 다녀갑니당 메헤헤헤헤헤헤헤헿헤헤헤헤헤헿헤헤헤헿헤헤헤헤헤헤헤헤");
   }
 }
